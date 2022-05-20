@@ -8,7 +8,7 @@ For the full description of the project, see the publication in the: To Be Updat
 
 This GitHub page contains the source codes in Myokit file format (.mmt) for:
 
-Optimization of Courtemanche human RA and Passini human LV models
+ToR-ORd model for:
 0-dimensional (cellular) simulations
 Population modeling simulations
 
