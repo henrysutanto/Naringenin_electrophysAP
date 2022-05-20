@@ -9,7 +9,9 @@ For the full description of the project, see the publication in the: To Be Updat
 This GitHub page contains the source codes in Myokit file format (.mmt) for:
 
 ToR-ORd model for:
+
 0-dimensional (cellular) simulations
+
 Population modeling simulations
 
 For queries, do not hesitate to contact us: Henry Sutanto, SUNY Downstate Health Sciences University (henry.sutanto@downstate.edu)
