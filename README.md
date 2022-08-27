@@ -14,4 +14,4 @@ ToR-ORd model for:
 
 Population modeling simulations
 
-For queries, do not hesitate to contact us: Henry Sutanto, SUNY Downstate Health Sciences University (henry.sutanto@downstate.edu)
+For queries, do not hesitate to contact us: Henry Sutanto (henry1988md@gmail.com)
