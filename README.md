@@ -4,7 +4,9 @@ Code for "Grapefruit flavonoid Naringenin sex-dependently modulates action poten
 
 Henry Sutanto, Decsa Medika Hertanto, Hendri Susilo, Citrawati Dyah Kencono Wungu
 
-For the full description of the project, see the publication in the: To Be Updated
+Sutanto, H.; Hertanto, D.M.; Susilo, H.; Wungu, C.D.K. Grapefruit Flavonoid Naringenin Sex-Dependently Modulates Action Potential in an In Silico Human Ventricular Cardiomyocyte Model. Antioxidants 2022, 11, 1672.
+
+For the full description of the project, see the publication in the: https://doi.org/10.3390/antiox11091672
 
 This GitHub page contains the source codes in Myokit file format (.mmt) for:
 
